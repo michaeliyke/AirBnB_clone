@@ -1,7 +1,8 @@
-body{
-	display: flex;
-	align-items: center;
-	align-content: center;
-	justify-content: center;
-	border-radius: 0;
+@import url("./2-header.css");
+@import url("./2-footer.css");
+
+body {
+	margin: 0;
+	padding: 0;
 }
+
