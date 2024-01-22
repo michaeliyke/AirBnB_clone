@@ -1,0 +1,16 @@
+@import url("./3-header.css");
+@import url("./3-footer.css");
+@import url("./4-filters.css");
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #484848;
+	font-size: 14px;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container {
+	max-width: 1000px;
+	margin: 30px auto; /* margin: top/bottom left/right */
+}
